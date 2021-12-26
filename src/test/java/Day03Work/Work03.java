@@ -1,4 +1,4 @@
-package Day01Work;
+package Day03Work;
 
 public class Work03 {
 }
